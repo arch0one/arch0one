@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arch0one
+- 👋 Hi, I’m @arch0one. This page exists so that I can keep stuff related to my personal Archlinux build on it.
 - 👀 I’m interested in things that I happen to find interesting.
 - 🌱 I’m currently learning a lot of things, but fewer things than I once needed to learn.
 - 💞️ I’m looking to collaborate on absolutely nothing, I do things by myself.
